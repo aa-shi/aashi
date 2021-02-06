@@ -290,6 +290,11 @@ main#home h1 {
   grid-area: job1;
 }
 
+.about-info ul {
+  -webkit-padding-start: 0px;
+          padding-inline-start: 0px;
+}
+
 .about-info .job-2 {
   -ms-grid-row: 2;
   -ms-grid-column: 2;

@@ -103,6 +103,11 @@ main {
     grid-area: job1;
   }
 
+  ul{
+    padding-inline-start: 0px;
+  }
+  
+
   .job-2 {
     grid-area: job2;
   }
